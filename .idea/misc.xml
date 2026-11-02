@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="WSL (Ubuntu): (/home/randy/.pyenv/shims/python3)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="WSL (Ubuntu): (/home/randy/.pyenv/shims/python3)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="WSL (Ubuntu): (/home/randy/repos/semantic-axis-lab/.venv313/bin/python)" project-jdk-type="Python SDK" />
 </project>

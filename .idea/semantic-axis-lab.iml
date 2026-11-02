@@ -3,8 +3,9 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv313" />
     </content>
-    <orderEntry type="jdk" jdkName="WSL (Ubuntu): (/home/randy/.pyenv/shims/python3)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="WSL (Ubuntu): (/home/randy/repos/semantic-axis-lab/.venv313/bin/python)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
